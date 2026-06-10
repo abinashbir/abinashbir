@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abinash%20Bir&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=CS%20Student%20%7C%20ML%20Explorer%20%7C%20Builder&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Final+year+CS+student+%40+CGU;Building+things+with+React+Native+%2B+Node.js;Chasing+ML+%26+AI+down+rabbit+holes;Daily+driver%3A+Fedora+Linux+%F0%9F%90%A7;git+commit+-m+%22learning+in+progress%22" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=2nd+year+CS+student+%40+CGU;Building+things+with+React+Native+%2B+Node.js;Chasing+ML+%26+AI+down+rabbit+holes;Daily+driver%3A+Fedora+Linux+%F0%9F%90%A7;git+commit+-m+%22learning+in+progress%22" alt="Typing SVG"/>
 
 <br/>
 
@@ -23,7 +23,7 @@
 class Abinash:
     name        = "Abinash Bir"
     university  = "C.V. Raman Global University"
-    semester    = "5th Sem, B.Tech CSE"
+    semester    = "5th Sem (3rd Year), B.Tech CSE"
     location    = "Odisha, India 🇮🇳"
     os          = "Fedora Linux  (btw)"
 
@@ -96,6 +96,25 @@ class Abinash:
 
 </div>
 
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abinashbir&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" height="170"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abinashbir&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="170"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=abinashbir&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="60%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abinashbir&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=a78bfa" width="95%"/>
+</div>
+
+---
 
 ## 🌐 Connect With Me
 
