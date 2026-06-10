@@ -23,7 +23,7 @@
 class Abinash:
     name        = "Abinash Bir"
     university  = "C.V. Raman Global University"
-    semester    = "4th Sem, B.Tech CSE"
+    semester    = "5th Sem, B.Tech CSE"
     location    = "Odisha, India 🇮🇳"
     os          = "Fedora Linux  (btw)"
 
